@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireSwiftyJSON (1.0.2):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON (~> 4.0)
+  - IQKeyboardManagerSwift (6.5.4)
+  - NohanaImagePicker (0.9.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - AlamofireSwiftyJSON
+  - IQKeyboardManagerSwift
+  - NohanaImagePicker (~> 0.9)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireSwiftyJSON
+    - IQKeyboardManagerSwift
+    - NohanaImagePicker
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireSwiftyJSON: 74ee3804bed06d07857daf1eeb1615c85dba3997
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  NohanaImagePicker: b39fa5623cabab69597ea6f6a2d6729b9895cd2b
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 175aee9113e88ff24df1420ff9537b93a9c63d42
+
+COCOAPODS: 1.8.4
